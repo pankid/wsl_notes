@@ -1,0 +1,3 @@
+rsync -rlDWc /mnt/stuff/work/sfx/ /mnt/e/SFX
+
+rsync -rlDWc /mnt/stuff/work/audio_work/ /mnt/f/audio_work/

@@ -1,0 +1,1 @@
+mount -t drvfs '\\10.10.10.1\work' /mnt/stuff/work
